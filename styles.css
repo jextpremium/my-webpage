@@ -14,16 +14,18 @@ background-image {
 
 .button {
     background-color: rgb(115, 0, 255);
-    color: white;
+    color: rgb(94, 255, 0);
     padding: 10px 20px;
     border-radius: 5px;
+    text-align: left;
+    cursor: crosshair;
+
 }
 
 cursor {
     cursor: crosshair;
 
 }
-
 
 
 h1 {
