@@ -6,6 +6,8 @@ body {
     background-size: cover;
     cursor: crosshair;
     
+
+
 }
 
 background-image {
@@ -38,6 +40,15 @@ p {
     font-size: 20px;
     color: rgb(255, 0, 72);
 }
+
+
+
+.image {
+
+    position: absolute;
+}
+
+
 
 h2 {
     color: rgb(131, 226, 43);
